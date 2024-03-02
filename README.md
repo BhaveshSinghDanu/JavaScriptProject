@@ -5,6 +5,7 @@
 5. This application is just for showing that i know how to work with Api using javascript.
 6. Below is the image showing the onepage javascript application Front-end
 
-![Screenshot 2024-03-02 173648](https://github.com/BhaveshSinghDanu/JavaScriptProject/assets/161857480/984cbce6-9fe4-4ed6-9df0-0cdba4a40dfa)
+![Screenshot 2024-03-02 213636](https://github.com/BhaveshSinghDanu/JavaScriptProject/assets/161857480/faca08d9-8995-4020-b393-24f65512a0db)
+
 
 
